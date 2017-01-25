@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+
+    android:fillViewport="false">
+    <!--android:background="@color/nemesis_red_light"-->
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/privacy_policy"
+            android:id="@+id/textView_privacy_policy"
+
+            android:layout_centerHorizontal="true"
+            android:padding="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Developed by,Neonsofts"
+            android:id="@+id/textView_devloped_by"
+            android:layout_below="@id/textView_privacy_policy"
+            android:layout_centerHorizontal="true"
+            android:padding="15dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Copyright Neonsofts,2016"
+            android:id="@+id/textView_copyright"
+            android:layout_below="@id/textView_devloped_by"
+            android:layout_centerHorizontal="true"
+
+            android:padding="15dp"/>
+
+    </RelativeLayout>
+</ScrollView>
