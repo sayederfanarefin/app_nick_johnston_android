@@ -84,7 +84,6 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_alignParentTop="true"
-                        android:id="@+id/a1"
                         android:padding="5dp"
                         android:orientation="vertical"
                         android:layout_weight="3"
@@ -97,7 +96,6 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_alignParentTop="true"
-                        android:id="@+id/b1"
                         android:padding="1dp"
                         android:orientation="vertical"
                         android:layout_weight="1"
@@ -107,7 +105,6 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_alignParentTop="true"
-                            android:id="@+id/playerButtonsLayout"
                             android:padding="5dp"
                             android:orientation="horizontal"
                             >
@@ -116,7 +113,6 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_alignParentTop="true"
-                                android:id="@+id/backward"
                                 android:padding="5dp"
                                 android:orientation="vertical"
                                 android:layout_weight="1"
@@ -134,7 +130,6 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_alignParentTop="true"
-                                android:id="@+id/playpause"
                                 android:padding="5dp"
                                 android:orientation="vertical"
                                 android:layout_weight="1"
@@ -151,7 +146,6 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_alignParentTop="true"
-                                android:id="@+id/forward"
                                 android:padding="5dp"
                                 android:orientation="vertical"
                                 android:layout_weight="1"
@@ -170,7 +164,6 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_alignParentTop="true"
-                        android:id="@+id/c1"
                         android:padding="5dp"
                         android:orientation="vertical"
                         android:layout_weight="3"
@@ -190,7 +183,6 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_alignParentTop="true"
-                        android:id="@+id/a"
                         android:padding="5dp"
                         android:orientation="vertical"
                         android:layout_weight="3"
@@ -209,7 +201,6 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_alignParentTop="true"
-                        android:id="@+id/b"
                         android:padding="5dp"
                         android:orientation="vertical"
                         android:layout_weight="1"
@@ -226,7 +217,6 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_alignParentTop="true"
-                        android:id="@+id/c"
                         android:padding="5dp"
                         android:orientation="vertical"
                         android:layout_weight="3"
@@ -245,7 +235,6 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/musicBrowser"
                     android:orientation="horizontal"
                     android:gravity="center_horizontal"
                     android:layout_below="@id/bhitorer_down"
@@ -257,7 +246,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_alignParentTop="true"
-                        android:id="@+id/bbb"
                         android:padding="1dp"
                         android:orientation="vertical"
                         android:layout_weight="1"
@@ -275,7 +263,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_alignParentTop="true"
-                        android:id="@+id/ccc"
                         android:orientation="vertical"
                         android:layout_weight="5"
                         android:layout_gravity="center"
@@ -293,7 +280,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_alignParentTop="true"
-                        android:id="@+id/eee"
                         android:padding="1dp"
                         android:orientation="vertical"
                         android:layout_weight="3"
@@ -369,7 +355,6 @@
                     android:textAppearance="?android:attr/textAppearanceLarge"
                     android:text="Couldn't connect!"
                     android:paddingTop="10dp"
-                    android:id="@+id/error_textView"
                     android:textColor="@color/error_color_text"/>
 
             </LinearLayout>
@@ -384,7 +369,6 @@
                     style="?android:attr/progressBarStyleSmall"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/progressBar_connecting"
                     android:gravity="center"
                     android:padding="1dp"
                     />
@@ -394,8 +378,7 @@
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:text="Waiting for network..."
-                    android:textColor="@color/error_color_text"
-                    android:id="@+id/connecting"/>
+                    android:textColor="@color/error_color_text" />
 
             </LinearLayout>
         </RelativeLayout>

@@ -40,7 +40,6 @@
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceSmall"
             android:text="Copyright Neonsofts,2016"
-            android:id="@+id/textView_copyright"
             android:layout_below="@id/textView_devloped_by"
             android:layout_centerHorizontal="true"
 

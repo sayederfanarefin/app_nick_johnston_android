@@ -6,7 +6,7 @@ android {
 
 
     defaultConfig {
-        applicationId "com.neonsofts.www.nemesis"
+        applicationId "com.bulbinc.nick"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1

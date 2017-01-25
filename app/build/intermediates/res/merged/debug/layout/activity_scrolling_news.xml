@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.neonsofts.www.nemesis.ScrollingActivity_news">
+    tools:context="com.bulbinc.nick.ScrollingActivity_news">
 
 
     <android.support.design.widget.AppBarLayout
@@ -16,7 +16,6 @@
         android:theme="@style/AppTheme.AppBarOverlay">
 
         <android.support.design.widget.CollapsingToolbarLayout
-            android:id="@+id/toolbar_layout"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:fitsSystemWindows="true"

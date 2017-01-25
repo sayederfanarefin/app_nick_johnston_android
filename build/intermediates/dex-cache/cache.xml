@@ -8,169 +8,34 @@
         optimize="true"
         revision="23.0.2"
         sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-13.0_7d0addedcbfdc461cd2c6eed42dc897a57ea5798\classes.dex" />
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-13.0_7d0addedcbfdc461cd2c6eed42dc897a57ea5798\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_f8831cd15222341a55b5c41bdf35cf0617f8e008\classes.dex" />
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_addb6fa0b70b6545384448ae6795779ce859b2fb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_8a40fe2fe83b99dc41966164453ea9dfac2e0233\classes.dex" />
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_d2443c9f7e23ec9c0bcf478f074c08e6754438f2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_77ea09e19ee22465791a4baec7c94bcb86bb10c1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="c68169699088f2212ae94fa70635aa6642a22980">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_93bd349e5e9337d9333278ee6c9470dde35f1984\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_ebf558c53d468dc0a933e766a25a044830ef9ad1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_bf879649e3a04a135627852d0354b0133327ec2d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_98160c11fa528957bb5b32a026b7a04f4d9791a1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_0b350b23da510b186f9bdc648273ac6abd742d46\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_ebb61f0c09de0616549e72434a7ae6ae47ac9c66\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_354ce26f855467be045bab5c29bab67144c73a97\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_acf401b9b32877f082d9abecb812fbcacecbae3f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1300794cd83980b3e7f5f30efece01e8d4afb3ec\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_75c1fc5d8998682c38afbb6aa5499afaa3c662df\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_706b0596e62da51b55c1ee9287e56ff552f40ffd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_a9999872f4ececabfb50312f7d7a230dbc65987f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_95213c5141405ce65e38ae862e2e31403a16dd3b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.19.0_f088ff55be30421d8b5c97d2730fed4f764c3099\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_4c4b8ff4015055cfcd15017238000a700189526d\classes.dex" />
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_d8fadda3a2a27c421916c65b8b2ea324ecb2b8c8\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -179,34 +44,61 @@
         optimize="true"
         revision="23.0.2"
         sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.19.0_0c6c56acfaee8f060de0b5f97c160c28a1443757\classes.dex" />
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.19.0_0c6c56acfaee8f060de0b5f97c160c28a1443757\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_69e138622b64653c3c696849a43c72374a0d3961\classes.dex" />
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_5b1ab5043cb6cdbe7153b9d110a78ef74ae0a3ac\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="190a642ba16d1421296a4d794606279b80039c59">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_fc3e5d717029d128675c1512a5754301e5a7be26\classes.dex" />
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_20094a5ca901324b5b4e0aa186d78b4e2b8f29bc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cd11132d7f95ee629ae42d5e61cee091fac0eaff\classes.dex" />
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_23b3560c77b45a86c7e0c97c2bab5d8ac6f3025a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_e1e5c0a59a0353254348abe10294b92f9eab2ed6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_9cf2c0e83f5e141e4c0182e1fa72701e5034bd55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ebdc686d1dc5b7d0c1796ba9ce49064f63d57637">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_432086a885f218c3bac508c4b9214f2b5ddefcb4\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -215,7 +107,7 @@
         optimize="true"
         revision="23.0.2"
         sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.19.0_ebcd36ce04603cf5e265730ce4cfad4d53673b03\classes.dex" />
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.19.0_ebcd36ce04603cf5e265730ce4cfad4d53673b03\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -224,16 +116,43 @@
         optimize="true"
         revision="23.0.2"
         sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_50d90d063a9ec622c06223a50e1fbcc008ecd541\classes.dex" />
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_50d90d063a9ec622c06223a50e1fbcc008ecd541\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="9ff04cc3470178a44512624036751a803418c2ca">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_3f495a21e641afaa2613821bd47a721c4a8e71ee\classes.dex" />
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_f27430490d9033e7d5d43ca243020a1877fd5770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_9abea55c6381a7da705e4b5a9162c3b05c1b401c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_c044835cc83bcc058d105c0bdcb484d9ca299135\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_48bea7083a637092cb7ff44978ac36b355037668\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -242,7 +161,7 @@
         optimize="true"
         revision="23.0.2"
         sha1="762016371811e15a66e97cf27f3e852bf287aaf3">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\renderscript-v8_7865c950af6c227bc6cf762e65533c7daf9b83f3\classes.dex" />
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\renderscript-v8_7865c950af6c227bc6cf762e65533c7daf9b83f3\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -251,43 +170,25 @@
         optimize="true"
         revision="23.0.2"
         sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_ed49aaf5827b85f8658515901acef87377b09c65\classes.dex" />
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_ed49aaf5827b85f8658515901acef87377b09c65\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_5948536d6a6547a7c66ed43dfdb4ab724d2f48aa\classes.dex" />
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_dfd63f4b7627f99b55f7a1fb288c644aaf62fa9b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="8869efaa30701ec3945424be7da0e19c93ce0556">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_59c4ebf12293ab8d8b675f379840109981aae65a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_3ae1d39c624d71dbf6de19e81bf69f9c7cc630eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_31a15aa3300b282a800f2df861f21177e2262785\classes.dex" />
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_96e4ca7575dae618c86a33941c5597662fb502c1\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -296,70 +197,79 @@
         optimize="true"
         revision="23.0.2"
         sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_9d2863d8574b65041b073ad7f78117c506e0e5c2\classes.dex" />
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_9d2863d8574b65041b073ad7f78117c506e0e5c2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_7baac7519ca193c62b21246b37711339635a7f07\classes.dex" />
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_7b7588bb331864b2220db2dc52298708322d2124\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_27c776fc451831af78d7c676bea8ffedf2ead697\classes.dex" />
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_30e0f9d42d30a12d385f0aba5220a56fc617e945\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_b2cfdca876c19c5c4fdca81fe84a006e9637a7ae\classes.dex" />
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_4aa29861068132e5c57c16fc45c073c774b6e09c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\libs\YouTubeAndroidPlayerApi.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_642187e7aad9b7ec6a8d24923abb377b220cd673\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_84777a69281e622bc2063ad3d81bb47adee090a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_a1c8b50ad535fd88dd6cf3524cffe36750b25b60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\libs\YouTubeAndroidPlayerApi.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_b294fe54eee2a08b72bb30750559aef45229e32e\classes.dex" />
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_30c5da4351677f50a28a66ee90fabef77c92e998\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_3133494a5ff38083405694127faee660c143a014\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_cdb76a9029febe66a72c5835950190c068557455\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_e3ff775c7c2cd0126e5931f8c37cfff920972fca\classes.dex" />
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_21d7a79a5c0fd025885bb8d375d14e24909ed2f8\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -368,7 +278,97 @@
         optimize="true"
         revision="23.0.2"
         sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.19.0_59f965b53b008b3a9b14986c4c1f523da15817ac\classes.dex" />
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.19.0_59f965b53b008b3a9b14986c4c1f523da15817ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d37c4ea216bdfb5248879773d0038b7e13c149b9">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_72d3031a43df8b0c86e668b6a99cca425e3feb0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_10a27af106bd7cb5b0d436c7c534b72fa6d6565a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c06058512144bbbb10bfd95d0229e1f15c563b0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_22cec201986755e40878e7241a4f3210ad85431b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_465dbfe42d72192d6318c1bab747efe04012af14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_3b4cce83f01aa2c415ba7bf35dcead7a5b6725a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_a08e02b7849909bae2391fb55320b60f1a8497b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_d2e77754124fc37482ce22fe5c05425537c4cbba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_75c1fc5d8998682c38afbb6aa5499afaa3c662df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_e1d967da0a692f55a3036ef4aae86fcba97184a1\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -377,34 +377,34 @@
         optimize="true"
         revision="23.0.2"
         sha1="9befa937f06683ea4b038fc8667ec41f4480677f">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-youtube-v3-rev120-1.19.0_1545792593b6cae972ef9c6f77bb7caf47410042\classes.dex" />
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-youtube-v3-rev120-1.19.0_1545792593b6cae972ef9c6f77bb7caf47410042\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9f1e45cce75a4139ce83c6aa7d838cde31151ad0\classes.dex" />
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_6d569cbd64a4b3745a5573ddbb7c9a477a328784\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_17506b0c57ed6c3e89c148dffc37bf3d61d13738\classes.dex" />
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_1dae21d46f76bad3f1810d192269a9d0987f550f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jar="C:\Users\NewUsername\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="C:\Users\NewUsername\Desktop\generic band app hybrid\2\neon_band_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_0e91b36a5e8b4527a7eeb551de44a83bed740aab\classes.dex" />
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.19.0_f088ff55be30421d8b5c97d2730fed4f764c3099\classes.dex" />
     </item>
 
 </items>

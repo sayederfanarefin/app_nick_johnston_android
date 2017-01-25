@@ -22,14 +22,12 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/imageView_nemesis"
                 android:src="@mipmap/ic_launcher"
                 android:layout_weight="5"/>
 
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/neonsofts_logo"
                 android:src="@mipmap/neonsofts"
                 android:layout_weight="5"/>
         </LinearLayout>

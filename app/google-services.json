@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "743256910661",
-    "firebase_url": "https://nemesis-93e21.firebaseio.com",
-    "project_id": "nemesis-93e21",
-    "storage_bucket": "nemesis-93e21.appspot.com"
+    "project_number": "598462785814",
+    "firebase_url": "https://nick-johnston-1d06e.firebaseio.com",
+    "project_id": "nick-johnston-1d06e",
+    "storage_bucket": "nick-johnston-1d06e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:743256910661:android:71c606b67701c44c",
+        "mobilesdk_app_id": "1:598462785814:android:3fa1bceb852d4967",
         "android_client_info": {
-          "package_name": "com.neonsofts.www.nemesis"
+          "package_name": "com.bulbinc.nick"
         }
       },
       "oauth_client": [
         {
-          "client_id": "743256910661-6l14akeod5h2q10c4e0o74k7gq7dk0no.apps.googleusercontent.com",
+          "client_id": "598462785814-ls5dunkul8e1qhdh8hcrlk21q8ph8grk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBSrdSlCqqb8E3h2fZ-ZjO_uQIZwq816Iw"
+          "current_key": "AIzaSyBaCNz-w1Orbtc8ivRK-iiUbEW8KfwrmA8"
         }
       ],
       "services": {

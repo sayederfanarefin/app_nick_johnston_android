@@ -1,7 +1,7 @@
-#Wed Jan 25 10:34:00 BDT 2017
-base.0=C\:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_59c4ebf12293ab8d8b675f379840109981aae65a
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_93bd349e5e9337d9333278ee6c9470dde35f1984\\classes.dex
-base.1=C\:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_93bd349e5e9337d9333278ee6c9470dde35f1984
-file.0=C\:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_59c4ebf12293ab8d8b675f379840109981aae65a\\classes.dex
+#Wed Jan 25 11:40:45 BDT 2017
+base.0=C\:\\Users\\NewUsername\\Desktop\\app_nick_johnston_android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_72d3031a43df8b0c86e668b6a99cca425e3feb0e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\NewUsername\\Desktop\\app_nick_johnston_android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_432086a885f218c3bac508c4b9214f2b5ddefcb4\\classes.dex
+base.1=C\:\\Users\\NewUsername\\Desktop\\app_nick_johnston_android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_432086a885f218c3bac508c4b9214f2b5ddefcb4
+file.0=C\:\\Users\\NewUsername\\Desktop\\app_nick_johnston_android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_72d3031a43df8b0c86e668b6a99cca425e3feb0e\\classes.dex

@@ -1,26 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "C:\\Users\\NewUsername\\Desktop\\app_nick_johnston_android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\NewUsername\\Desktop\\app_nick_johnston_android\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_discography_scrolling.xml",
-        "source": "C:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\src\\main\\res\\menu\\menu_discography_scrolling.xml"
-    },
-    {
-        "merged": "C:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling_activity_news.xml",
-        "source": "C:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\src\\main\\res\\menu\\menu_scrolling_activity_news.xml"
-    },
-    {
-        "merged": "C:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_discography__scrolling_activity__tem.xml",
-        "source": "C:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\src\\main\\res\\menu\\menu_discography__scrolling_activity__tem.xml"
-    },
-    {
-        "merged": "C:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "C:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "C:\\Users\\NewUsername\\Desktop\\generic band app hybrid\\2\\neon_band_app\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "C:\\Users\\NewUsername\\Desktop\\app_nick_johnston_android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\NewUsername\\Desktop\\app_nick_johnston_android\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]

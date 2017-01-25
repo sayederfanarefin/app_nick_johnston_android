@@ -9,9 +9,7 @@
     <!-- TODO: Update blank fragment layout -->
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/the_news_whole"
-        >
+        android:layout_height="match_parent">
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -72,7 +70,6 @@
                 android:textAppearance="?android:attr/textAppearanceLarge"
                 android:text="Couldn't connect!"
                 android:paddingTop="10dp"
-                android:id="@+id/error_textView"
                 android:textColor="@color/error_color_text"/>
 
         </LinearLayout>
@@ -98,7 +95,6 @@
                 style="?android:attr/progressBarStyleSmall"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/progressBar_connecting"
                 android:gravity="center"
                 />
 
@@ -107,8 +103,7 @@
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="Waiting for network..."
-                android:textColor="@color/error_color_text"
-                android:id="@+id/connecting"/>
+                android:textColor="@color/error_color_text" />
 
         </LinearLayout>
 </RelativeLayout>

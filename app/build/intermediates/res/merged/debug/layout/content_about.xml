@@ -27,7 +27,6 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:text="@string/about"
-        android:id="@+id/textView"
         android:layout_below="@id/imageView2"
         android:layout_centerHorizontal="true"
         android:padding="15dp"/>

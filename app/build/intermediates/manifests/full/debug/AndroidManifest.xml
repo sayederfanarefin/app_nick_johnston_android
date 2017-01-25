@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.neonsofts.www.nemesis"
+    package="com.bulbinc.nick"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -22,10 +22,10 @@
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <permission
-        android:name="com.neonsofts.www.nemesis.permission.C2D_MESSAGE"
+        android:name="com.bulbinc.nick.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.neonsofts.www.nemesis.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.bulbinc.nick.permission.C2D_MESSAGE" />
 
     <application
         android:allowBackup="true"
@@ -34,7 +34,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.neonsofts.www.nemesis.MainActivity"
+            android:name="com.bulbinc.nick.MainActivity"
             android:label="@string/title_activity_main"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme" >
@@ -45,16 +45,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.neonsofts.www.nemesis.FullScreenYoutubePlayer"
+            android:name="com.bulbinc.nick.FullScreenYoutubePlayer"
             android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="landscape" />
 
-        <service android:name="com.neonsofts.www.nemesis.push.NemesisMessagingService" >
+        <service android:name="com.bulbinc.nick.push.NemesisMessagingService" >
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
         </service>
-        <service android:name="com.neonsofts.www.nemesis.push.FirebaseIDService" >
+        <service android:name="com.bulbinc.nick.push.FirebaseIDService" >
             <intent-filter>
                 <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
             </intent-filter>
@@ -66,25 +66,25 @@
             </intent-filter>
         </receiver>
 
-        <service android:name="com.neonsofts.www.nemesis.NotificationService" />
+        <service android:name="com.bulbinc.nick.NotificationService" />
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name="com.neonsofts.www.nemesis.ScrollingActivity_news"
+            android:name="com.bulbinc.nick.ScrollingActivity_news"
             android:label="@string/title_activity_scrolling_news"
             android:theme="@style/AppTheme" />
 
-        <service android:name="com.neonsofts.www.nemesis.MediaPlayerService" />
+        <service android:name="com.bulbinc.nick.MediaPlayerService" />
 
         <activity
-            android:name="com.neonsofts.www.nemesis.LoginActivity"
+            android:name="com.bulbinc.nick.LoginActivity"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name="com.neonsofts.www.nemesis.SignupActivity"
+            android:name="com.bulbinc.nick.SignupActivity"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateHidden" />
         <activity
@@ -115,7 +115,7 @@
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
 
-                <category android:name="com.neonsofts.www.nemesis" />
+                <category android:name="com.bulbinc.nick" />
             </intent-filter>
         </receiver>
         <!--
@@ -139,7 +139,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.neonsofts.www.nemesis.firebaseinitprovider"
+            android:authorities="com.bulbinc.nick.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
