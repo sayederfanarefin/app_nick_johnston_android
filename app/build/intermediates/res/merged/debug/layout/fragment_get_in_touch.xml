@@ -20,12 +20,14 @@
             android:background="@color/nemesis_red_light"
             >
 
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="150dp"
-                android:layout_centerHorizontal="true"
-                android:src="@drawable/nemesis" />
+            <TextView
+                android:text="Nick Johnston"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:padding="16dp"
+                android:textAlignment="center"
+                android:id="@+id/textView" />
 
         </LinearLayout>
 
@@ -39,5 +41,7 @@
 
             />
     </RelativeLayout>
+
+
 
 </FrameLayout>

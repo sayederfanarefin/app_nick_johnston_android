@@ -12,10 +12,22 @@
     android:theme="@style/ThemeOverlay.AppCompat.Dark"
     android:background="@color/nemesis_red_light">
 
+    <!--
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="@dimen/nav_header_vertical_spacing"
         android:src="@drawable/nemesis" />
+    -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Nick Johnston"
+        android:paddingRight="16dp"
+        android:paddingLeft="16dp"
+        android:paddingTop="64dp"
+        android:paddingBottom="64dp"
+        android:textAlignment="center" />
 
 </LinearLayout>

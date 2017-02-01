@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86_64,x86"
-    api-level="23"
-    density="420dpi"
+    api-level="22"
+    density="xxhdpi"
     format="8"
-    plugin-version="2.2.1"
-    timestamp="51838082927295"
+    plugin-version="2.2.3"
+    timestamp="11026952513832"
     token="-5664213087322643500"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="496" />
+        duration="427" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="17" />
+        duration="20" />
     <task
         name="verifier"
         duration="1" />
@@ -27,21 +27,30 @@
         type="DEX" />
 
     <build
-        timestamp="51535267775644"
+        timestamp="10526055912677"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="51774844330113"
+        timestamp="10932820905321"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
             type="RESOURCES" />
+        <artifact
+            location="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
     </build>
     <build
-        timestamp="51838082927295"
+        timestamp="11026952513832"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"

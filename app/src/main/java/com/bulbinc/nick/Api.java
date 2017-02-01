@@ -4,6 +4,8 @@ import android.os.AsyncTask;
 import android.os.Handler;
 import android.util.Log;
 
+import com.bulbinc.nick.Values.BandValues;
+
 import org.json.JSONException;
 import org.json.JSONObject;
 
@@ -18,12 +20,14 @@ import java.net.URL;
  */
 
 public class Api {
+
+    BandValues bv = new BandValues();
      AsyncTask<Void, Void, Boolean> task;
     public String result_json = null;
 
     public Api(final Handler myHandler ,  String base_url, final String table_name, final String last_id, final String column_name2, final String column_value2){
 
-        String url_param = "NeonSofts726=Nopassword01&band_id=13101209&data=" + table_name;
+        String url_param = "NeonSofts726=Nopassword01&band_id="+bv.band_id+"&data=" + table_name;
         if(last_id!=null){
             url_param += "&lastid="+last_id;
         }

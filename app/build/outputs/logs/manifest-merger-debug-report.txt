@@ -16,19 +16,19 @@ ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\A
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\AndroidManifest.xml:5:5-79
 MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:19:5-78
-MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:19:5-78
 MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:20:5-78
 MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:19:5-78
 	android:name
 		ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\AndroidManifest.xml:5:22-76
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\AndroidManifest.xml:6:5-67
 MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:19:5-66
 MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
@@ -41,9 +41,9 @@ ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\A
 		ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\AndroidManifest.xml:8:22-83
 uses-permission#android.permission.WAKE_LOCK
 ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\AndroidManifest.xml:9:5-68
-MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:21:5-67
 	android:name
 		ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\AndroidManifest.xml:9:22-65
 uses-permission#android.permission.CALL_PHONE
@@ -53,31 +53,31 @@ ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\A
 application
 ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\AndroidManifest.xml:12:5-68:19
 MERGED from [com.android.support:design:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:transition:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
 MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:28:5-50:19
-MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:4:5-7:19
 MERGED from [com.google.firebase:firebase-ads:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-ads\9.8.0\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:23:5-27:19
 MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.8.0\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:24:5-33:19
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\AndroidManifest.xml:15:9-41
 	android:supportsRtl
@@ -187,33 +187,33 @@ ADDED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\A
 uses-sdk
 INJECTED from C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:transition:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
 MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:3:5-42
 MERGED from [com.google.firebase:firebase-ads:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-ads\9.8.0\AndroidManifest.xml:4:5-42
 MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:22:5-42
 MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.8.0\AndroidManifest.xml:4:5-42
 MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.8.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.0.1] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
@@ -228,6 +228,26 @@ ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\NewUsernam
 		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:21:19-51
 	android:required
 		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:21:52-75
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:23:18-87
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:19-91
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:9-172
 	android:exported
@@ -236,18 +256,38 @@ ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\NewUsernam
 		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:86-145
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:19-85
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:66-119
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:20-65
-service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:23:9-27:19
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:90-112
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:23:88-111
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:113-137
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:23:18-87
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:16-87
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:22:5-81
 	android:name
@@ -306,49 +346,9 @@ ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\NewUsername\Desk
 		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:150-173
 	android:name
 		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:79-124
-activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:9-232
-	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:72-181
-	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:182-230
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:19-71
-activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:9-131
-	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:92-129
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:19-91
-receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:25:7-26:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:90-112
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:113-137
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:17-89
-receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:7-31:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:162-184
-	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:105-161
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:17-104
-intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:28:11-30:27
-action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:29:15-76
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:29:23-74
-service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:27:7-137
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:88-110
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:111-135
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:16-87
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\NewUsername\Desktop\app_nick_johnston_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:20-65

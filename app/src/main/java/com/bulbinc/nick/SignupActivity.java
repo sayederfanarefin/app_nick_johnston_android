@@ -121,12 +121,14 @@ public class SignupActivity extends AppCompatActivity {
                             if(api.get_json_reply_string().contains("success")){
                                 onSignupSuccess();
                             }else{
+                                Log.v("========error", "empty");
                                 onSignupFailed();
                             }
                         }
 
                         break;
                     default:
+                        Log.v("========error", "default");
                         onSignupFailed();
                         break;
                 }

@@ -69,15 +69,15 @@ ListView contact_us_list_view;
         GetInTouch n = new GetInTouch();
         n.manager = "";
         n.type = "email";
-        n.contact_1 = "in2nemesis@gmail.com";
-        n.contact_2 = "@nemesisbd";
+        n.contact_1 = "nick@nickjohnstonmusic.com";
+        n.contact_2 = "@NickJohnstonOfficial";
         gita.add(n);
 
         n = new GetInTouch();
         n.manager = "Booking Agent";
-        n.type = "phone";
-        n.contact_1 = "01751597947";
-        n.contact_2 = "01712959848";
+        n.type = "email";
+        n.contact_1 = "liam@arteryglobal.com";
+        n.contact_2 = "Liam John Byrne";
         gita.add(n);
 
 /*
@@ -87,17 +87,14 @@ ListView contact_us_list_view;
             n.contact_1 = "01712959848";
             n.contact_2 = "01751597947";
             gita.add(n);
-*/
+
         n = new GetInTouch();
             n.manager = "General Manager";
             n.type = "phone";
             n.contact_1 = "01712959848";
             n.contact_2 = "01751597947";
             gita.add(n);
-
-
-
-
+*/
 
 
         contact_us_list_view.setAdapter(gita);
